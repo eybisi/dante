@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/dt_floatmenu_itemlist" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/dt_floatmenu_map" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="2dp">
+        <ImageView android:id="@+id/dt_floatmenu_about_icon" android:clickable="false" android:layout_width="32dp" android:layout_height="32dp"/>
+        <TextView android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@+id/dt_floatmenu_about_text" android:clickable="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="5dp" android:paddingEnd="5dp"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/dt_floatmenu_settings" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="2dp">
+        <ImageView android:id="@+id/dt_floatmenu_settings_icon" android:clickable="false" android:layout_width="32dp" android:layout_height="32dp"/>
+        <TextView android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@+id/dt_floatmenu_settings_text" android:clickable="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="5dp" android:paddingEnd="5dp"/>
+    </LinearLayout>
+</LinearLayout>

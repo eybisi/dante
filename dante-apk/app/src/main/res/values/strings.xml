@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dantebot</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="click_the_overflow_menu_and_select_settings">Welcome to Dante bot</string>
+    <string name="_dt_ft_settings" />
+    <string name="_dt_teleport" />
+    <string name="_dt_ft_favorites" />
+    <string name="_dt_ft_feeds" />
+    <string name="_dt_ft_autowalk" />
+</resources>

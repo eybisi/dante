@@ -1,0 +1,19 @@
+{
+  "dt_lup": "Lup-on cheat",
+  "dt_lup_description": "Lup-on hilesi ile oyunda gorunmez karakterleri gorebilirsiniz.",
+  "dt_genie": "Genie cheat",
+  "dt_genie_description" : "Genie hilesi, genie'yi durdugunuzda calismaya devam eder. Diger oyuncular sizin uzerinizde 'Genie' yazisini goremezler.",
+  "dt_captcha_bypass" : "Im not robot bypass",
+  "dt_captcha_bypass_description" : "Im not robot hilesi, im not robot testini ototmatik bir sekilde gecmenizi saglar.",
+  "dt_emulator" : "Emulator bypass",
+  "dt_emulator_description" : "Emulator hilesi, emulator kullandiginizda oyuna girebilmenizi saglar.",
+  "dt_move_in_skill_animation" : "Move in skill animation",
+  "dt_move_in_skill_animation_description" : "Move in skill animation hilesi, skill animasyonu icinde hareket edebilmenizi saglar.",
+  "dt_auto_loot": "Auto loot",
+  "dt_auto_loot_description": "Auto loot hilesi, otomatik olarak itemleri toplamanizi saglar.",
+  "dt_about": "About Turkish",
+  "dt_ft_settings": "Settings",
+  "dt_button_test": "Test button",
+  "dt_version": "Version : ",
+  "dt_botname": "Hellbot"
+}

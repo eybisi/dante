@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button1" type="id" />
+    <item name="button2" type="id" />
+    <item name="settingsContainer" type="id" />
+    <item name="hl_st_head" type="id" />
+    <item name="hl_st_head_status" type="id" />
+    <item name="hl_st_close" type="id" />
+    <item name="hl_st_title" type="id" />
+    <item name="divider" type="id" />
+    <item name="floating_icon" type="id" />
+</resources>
