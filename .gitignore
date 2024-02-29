@@ -2,6 +2,7 @@
 .cargo
 .vscode
 target
+dantedKnightUnity
 jniLibs
 Cargo.lock
 #built application files
